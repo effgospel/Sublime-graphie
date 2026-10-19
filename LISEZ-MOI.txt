@@ -1,0 +1,18 @@
+SUBLIME GRAPHIE — SITE WEB
+
+1. Ouvre index.html dans Chrome ou Edge pour tester le site.
+2. Place ton logo dans le dossier images et nomme-le logo-sublime.png si tu veux l'ajouter à la place du monogramme SG dans le code.
+3. Place tes réalisations dans le dossier images en utilisant exactement ces noms :
+   realisation-01.jpg
+   realisation-02.jpg
+   realisation-03.jpg
+   realisation-04.jpg
+   realisation-05.jpg
+   realisation-06.jpg
+   Les images peuvent être en JPG. Si elles sont en PNG, change l'extension correspondante dans index.html.
+4. Dans index.html, modifie les titres et descriptions sous chaque réalisation.
+5. Dans index.html, remplace contact@example.com par ton adresse e-mail.
+6. Dans script.js, remplace 243000000000 par ton numéro WhatsApp au format international sans + ni espaces.
+7. Pour publier gratuitement : crée un dépôt GitHub public nommé sublime-graphie, envoie index.html, style.css, script.js et le dossier images, puis active Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+IMPORTANT : Les images de galerie sont des emplacements prévus. Ajoute tes vraies images avant de publier le site.
